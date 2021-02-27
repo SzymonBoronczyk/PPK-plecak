@@ -1,0 +1,6 @@
+﻿  file_service.cpp
+c:\users\toshiba\source\repos\test123\test123\file_service.cpp(30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\toshiba\source\repos\test123\test123\file_service.cpp(35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  utils.cpp
+  Generowanie kodu...
+  test123.vcxproj -> C:\Users\Toshiba\source\repos\test123\Debug\test123.exe

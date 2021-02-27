@@ -1,0 +1,90 @@
+Generacja: 1 waga: 9.2/10 wartosc: 11260
+ultrabook 2.4 2500
+zeszyt 1.3 120
+notebook 1.9 1000
+aparat 1.2 3500
+kalkulator 0.2 140
+laptop 2.2 4000
+Generacja: 2 waga: 10/10 wartosc: 9180
+laptop 2.2 4000
+olowek 0.7 40
+widelec 0.3 20
+aparat 1.2 3500
+miska 3.6 420
+tablet 0.5 900
+kielich 1.5 300
+Generacja: 3 waga: 7.9/10 wartosc: 8845
+tablet 0.5 900
+laptop 2.2 4000
+miska 3.6 420
+aparat 1.2 3500
+widelec 0.3 20
+serwetka 0.1 5
+Generacja: 4 waga: 9.3/10 wartosc: 11240
+aparat 1.2 3500
+notebook 1.9 1000
+ultrabook 2.4 2500
+laptop 2.2 4000
+mikrofon 0.9 200
+olowek 0.7 40
+Generacja: 5 waga: 6.6/10 wartosc: 8070
+kalkulator 0.2 140
+laptop 2.2 4000
+czajnik 1.5 130
+aparat 1.2 3500
+kielich 1.5 300
+Generacja: 6 waga: 10/10 wartosc: 8350
+laptop 2.2 4000
+czajnik 1.5 130
+kielich 1.5 300
+miska 3.6 420
+aparat 1.2 3500
+Generacja: 7 waga: 7.9/10 wartosc: 11140
+laptop 2.2 4000
+ultrabook 2.4 2500
+kalkulator 0.2 140
+aparat 1.2 3500
+notebook 1.9 1000
+Generacja: 8 waga: 9.3/10 wartosc: 7000
+laptop 2.2 4000
+kolumny 7.1 3000
+Generacja: 9 waga: 9.3/10 wartosc: 7000
+laptop 2.2 4000
+kolumny 7.1 3000
+Generacja: 10 waga: 8.3/10 wartosc: 11060
+olowek 0.7 40
+aparat 1.2 3500
+ultrabook 2.4 2500
+tablet 0.5 900
+zeszyt 1.3 120
+laptop 2.2 4000
+Generacja: 11 waga: 9.1/10 wartosc: 8000
+laptop 2.2 4000
+ultrabook 2.4 2500
+monitor 4.5 1500
+Generacja: 12 waga: 8.9/10 wartosc: 11345
+mikrofon 0.9 200
+kalkulator 0.2 140
+notebook 1.9 1000
+ultrabook 2.4 2500
+serwetka 0.1 5
+laptop 2.2 4000
+aparat 1.2 3500
+Generacja: 13 waga: 10/10 wartosc: 8500
+monitor 4.5 1500
+notebook 1.9 1000
+aparat 1.2 3500
+ultrabook 2.4 2500
+Generacja: 14 waga: 9.7/10 wartosc: 8260
+laptop 2.2 4000
+mikrofon 0.9 200
+kubek 0.5 20
+aparat 1.2 3500
+zeszyt 1.3 120
+miska 3.6 420
+Generacja: 15 waga: 7.8/10 wartosc: 7070
+ultrabook 2.4 2500
+czajnik 1.5 130
+kalkulator 0.2 140
+laptop 2.2 4000
+kielich 1.5 300
