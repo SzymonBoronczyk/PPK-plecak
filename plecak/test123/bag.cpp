@@ -19,7 +19,7 @@ bool add_to_bag(Bag &bag, const Item &item, int key) {
 }
 
 bool remove_item_from_bag(Bag &bag, std::map<int,Item> &items, int remove_id) {
-	if (bag.item_id.size() < remove_id || remove_id < 0) return false;
+	if ((int)bag.item_id.size() < remove_id || remove_id < 0) return false;
 	bag.value -= items[remove_id].value;
 	bag.capacity -= items[remove_id].weight;
 

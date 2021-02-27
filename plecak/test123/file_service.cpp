@@ -27,12 +27,12 @@ void save_to_file(std::vector<Bag> bags, std::map<int, Item> items, std::string 
 	std::ofstream file(file_name);
 	std::stringstream ss;
 	int number_generation = 1;
-	for (int j = 0; j < bags.size(); ++j) {
+	for (int j = 0; j < (int)bags.size(); ++j) {
 		ss << "Generacja: " << number_generation++
 			<< " waga: " << bags[j].capacity << "/" << bags[j].max_capacity
 			<< " wartosc: " << bags[j].value << std::endl;
 		int temp_id;
-		for (int i = 0; i < bags[j].item_id.size(); ++i) {
+		for (int i = 0; i < (int)bags[j].item_id.size(); ++i) {
 			temp_id = bags[j].item_id[i];
 			ss << items.at(temp_id).name << " " << items.at(temp_id).weight << " " << items.at(temp_id).value << std::endl;
 					

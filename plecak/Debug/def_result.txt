@@ -1,8 +1,9 @@
-Generacja: 1 waga: 3.8/5 wartosc: 4950
-talerz 1.1 50
-tablet 0.5 900
-laptop 2.2 4000
-Generacja: 2 waga: 3.9/5 wartosc: 7520
+Generacja: 1 waga: 4.7/5 wartosc: 5050
 kubek 0.5 20
-aparat 1.2 3500
+tablet 0.5 900
+czajnik 1.5 130
 laptop 2.2 4000
+Generacja: 2 waga: 3.8/5 wartosc: 4950
+talerz 1.1 50
+laptop 2.2 4000
+tablet 0.5 900
